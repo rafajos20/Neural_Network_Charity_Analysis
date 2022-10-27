@@ -43,11 +43,11 @@ Changed activation functions to linear, relu, and tanh.
 * Attempt # 4
 Increased neurons from 8:5 to 10:8 and changed activation functions from relu:relu to relu:tanh.
 
-### * Were you able to achieve the target model performance?
+###  Were you able to achieve the target model performance?
 
 ![](Resources/c91.png) 
 
-### * What steps did you take to try and increase model performance?
+###  What steps did you take to try and increase model performance?
 Attempt # 1
 Changed bin sizes for APPLICATION_TYPE and CLASSIFICATION from original model
 Attempt # 2
