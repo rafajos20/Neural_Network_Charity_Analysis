@@ -1,3 +1,5 @@
+![](Resources/C90.png) 
+
 # Neural_Network_Charity_Analysis
 
 # Overview
@@ -42,3 +44,5 @@ Changed activation functions to linear, relu, and tanh.
 Increased neurons from 8:5 to 10:8 and changed activation functions from relu:relu to relu:tanh.
 
 Were you able to achieve the target model performance?
+
+![](Resources/C91.png) 
