@@ -1,4 +1,4 @@
-![](Resources/C90.png) 
+![](Resources/c90.png) 
 
 # Neural_Network_Charity_Analysis
 
@@ -45,4 +45,4 @@ Increased neurons from 8:5 to 10:8 and changed activation functions from relu:re
 
 Were you able to achieve the target model performance?
 
-![](Resources/C91.png) 
+![](Resources/c91.png) 
