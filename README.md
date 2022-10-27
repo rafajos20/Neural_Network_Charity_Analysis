@@ -31,10 +31,13 @@ How many neurons, layers, and activation functions did you select for your neura
 
 * Attempt # 1
 Used original model neurons, layers, and activation functions-changed bin sizes.
+
 * Attempt # 2
 Increased to 3 hidden layers.
+
 *Attempt # 3
 Changed activation functions to linear, relu, and tanh.
+
 *Attempt # 4
 Increased neurons from 8:5 to 10:8 and changed activation functions from relu:relu to relu:tanh.
 
